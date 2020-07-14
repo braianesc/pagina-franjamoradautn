@@ -1,5 +1,5 @@
 body{
-	background: #987A9F;
+	background: #eeeeee;
 	font-family: 'Open Sans', sans-serif;
 
 }
@@ -24,7 +24,7 @@ body{
 
 
 header{
-	background: white; 
+	background: black; 
 	padding-top: 15px;
 	padding-bottom: 10px;
 	position: fixed;
@@ -33,7 +33,7 @@ header{
 }
 
 .principal{
-	background: red;
+	background: orange;
 	height: 85vh;
 	background: url(../images/logofranjamorada.png)no-repeat center center fixed; 
 
