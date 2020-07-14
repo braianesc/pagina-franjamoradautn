@@ -24,7 +24,7 @@ body{
 
 
 header{
-	background: purple; 
+	background: black; 
 	padding-top: 15px;
 	padding-bottom: 10px;
 	position: fixed;
@@ -60,7 +60,7 @@ h1{
 
 .orange{
 
-	background: white;
+	background: purple;
 }
 
 .nosotros{
@@ -103,7 +103,7 @@ h1{
 }
 
 footer{
-	background: purple;
+	background: grey;
 	height: 50vh;
 	padding-top: 30px;
 }
